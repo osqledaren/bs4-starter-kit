@@ -1,6 +1,6 @@
-#Osqledaren 17/18: Studenträtt
+# Osqledaren 17/18: Studenträtt
 
-##Requirements
+## Requirements
 
 - Node
 - NPM
@@ -10,7 +10,7 @@ Check out this [guide](https://changelog.com/posts/install-node-js-with-homebrew
 
 To install gulp (npm needs to be installed first) run `npm install gulp-cli -g`
 
-##Getting Started
+## Getting Started
 
 - Run `gulp serve` to preview in browser and watch/automatically refresh for changes
 - Run `bower install --save <package>` to install frontend dependencies
