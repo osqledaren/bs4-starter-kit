@@ -7,7 +7,7 @@
 - Gulp
 - Bower
 
-Check out this [guide](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x ) for installing node and npm.
+Check out this [guide](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x ) for installing node and npm (macOS). [Here](http://blog.teamtreehouse.com/install-node-js-npm-windows) is a guide for windows users.
 
 To install gulp and bower (npm needs to be installed first) run `npm install gulp-cli bower -g`
 
