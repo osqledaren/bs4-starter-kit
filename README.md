@@ -5,10 +5,11 @@
 - Node
 - NPM
 - Gulp
+- Bower
 
 Check out this [guide](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x ) for installing node and npm.
 
-To install gulp (npm needs to be installed first) run `npm install gulp-cli -g`
+To install gulp and bower (npm needs to be installed first) run `npm install gulp-cli bower -g`
 
 ## Getting Started
 
